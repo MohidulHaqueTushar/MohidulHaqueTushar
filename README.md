@@ -2,7 +2,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%"/></p>
 
-<p align="center">I'm a Student of Computational Mathematics.<br/>Specialized in Data Science and Analytics.<br>Love working with Data, building Machine Learning models to solve business problems, and to know the unknown.<br></p><br/>
+<p align="center">Student of Computational Mathematics.<br/>Specialized in Data Science and Analytics.<br>Building Machine Learning models to solve business problems, and to know the unknown.<br></p><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=750&lines=Statistical+Analysis+of+Structured+and+Unstructured+Data;Finding+Trends,+Patterns+with+EDA+and+Machine+Learning+Models;Develop+Deep+Learning+Algorithms+on+Benchmark+Models)](https://git.io/typing-svg)
 <br> [![Profile views](https://komarev.com/ghpvc/?username=MohidulHaqueTushar&label=Profile%20views)](https://github.com/MohidulHaqueTushar)
@@ -15,7 +15,7 @@
 [<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haque.mdmohidul@gmail.com) 
 
 </p>
-
+<br>
 <h3> 🛠 &nbsp;Tools, Languages, and skills</h3>
 
 - 💻 IDEs &nbsp;<br>
@@ -48,13 +48,13 @@
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <br>
-
-📈 GitHub Stats
+<br>
+<h3>📈GitHub Stats</h3>
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=MohidulHaqueTushar&show_icons=true&&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohidulHaqueTushar&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/MohidulHaqueTushar/github-readme-stats)
-
+<br>
 ##  💹 Contribution Graph
 
 <a href="https://github.com/MohidulHaqueTushar">
