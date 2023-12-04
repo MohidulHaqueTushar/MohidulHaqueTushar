@@ -16,6 +16,32 @@
 
 </p>
 
+<h3> 🛠 &nbsp;Tools, Languages, and skills</h3>
+
+- 💻 IDEs &nbsp;<br>
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-333333?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+  
+  
+  
+- 🛢 &nbsp;
+  ![MySql](https://img.shields.io/badge/-MYSql-333333?style=flat&logo=mysql)
+  ![Sql](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+  ![Room](https://img.shields.io/badge/-Room-333333?style=flat&logo=Room)
+  ![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=Realm)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+  
+- 🔧 &nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-333333?style=flat&logo=android-studio)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 📈 GitHub Stats
 
 <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=MohidulHaqueTushar&show_icons=true&&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas" /> 
