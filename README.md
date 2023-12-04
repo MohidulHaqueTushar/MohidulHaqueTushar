@@ -15,3 +15,11 @@
 [<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haque.mdmohidul@gmail.com) 
 
 </p>
+
+📈 my github stats
+
+<p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=MohidulHaqueTushar&show_icons=true&&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="shibinthomas" /> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohidulHaqueTushar&layout=compact&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/MohidulHaqueTushar/github-readme-stats)
+
+
