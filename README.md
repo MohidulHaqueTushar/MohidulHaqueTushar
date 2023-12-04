@@ -28,4 +28,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohidulHaqueTushar"/>
   </a>
 
+<details>
+  <summary>📃 Education</summary>
+   
 
+- 📖 **Master in Advanced and Computational Mathematics**\
+📆 2019 - present\
+📍 **Chemnitz University of Technology** - Chemnitz, Germany
+
+- 📖 **Bachelor in Applied Mathematics**\
+📆 2014 - 2018\
+📍 **Noakhali Science and Technology University** - Noakhali, Bangladesh
+
+
+
+</details>
