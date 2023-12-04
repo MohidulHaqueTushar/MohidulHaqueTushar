@@ -2,7 +2,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%"/></p>
 
-<p align="center">I'm a Student of Computational Mathematics.<br/>Specialized in Data Science and Business Analytics.<br>Love working with Data, building Machine Learning models to solve business problems, and to know the unknown.<br></p><br/>
+<p align="center">I'm a Student of Computational Mathematics.<br/>Specialized in Data Science and Analytics.<br>Love working with Data, building Machine Learning models to solve business problems, and to know the unknown.<br></p><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=750&lines=Statistical+Analysis+of+Structured+and+Unstructured+Data;Finding+Trends,+Patterns+with+EDA+and+Machine+Learning+Models;Develop+Deep+Learning+Algorithms+on+Benchmark+Models)](https://git.io/typing-svg)
 <br> [![Profile views](https://komarev.com/ghpvc/?username=MohidulHaqueTushar&label=Profile%20views)](https://github.com/MohidulHaqueTushar)
@@ -36,7 +36,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-- 🖥️ ML/DL &nbsp;<br>
+- 🖥️ Machine/Deep Learning &nbsp;<br>
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
