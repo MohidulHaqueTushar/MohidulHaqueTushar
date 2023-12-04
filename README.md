@@ -6,3 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=750&lines=Statistical+Analysis+of+Structured+and+Unstructured+Data;Finding+Trends,+Patterns+with+EDA+and+Machine+Learning+Models;Develop+Deep+Learning+Algorithms+on+Benchmark+Models)](https://git.io/typing-svg)
 <br> [![Profile views](https://komarev.com/ghpvc/?username=MohidulHaqueTushar&label=Profile%20views)](https://github.com/MohidulHaqueTushar)
+
+### You can connect with me:
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/md-mohidul-haque)
+[<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haque.mdmohidul@gmail.com) 
+
+</p>
