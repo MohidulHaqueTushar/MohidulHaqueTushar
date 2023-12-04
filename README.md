@@ -4,3 +4,5 @@
 
 <p align="center">I'm a Student of Computational Mathematics.<br/>Specialized in Data Science and Business Analytics.<br>Love working with Data, building Machine Learning models to solve business problems, and to know the unknown.<br></p><br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=750&lines=Statistical+Analysis+of+Structured+and+Unstructured+Data;Finding+Trends+Patterns+with+EDA+and+Machine+Learning+Models;Develop+Deep+Learning+Algorithms+on+Benchmark+Models)](https://git.io/typing-svg)
+<br> [![Profile views](https://komarev.com/ghpvc/?username=MohidulHaqueTushar&label=Profile%20views)](https://github.com/MohidulHaqueTushar)
