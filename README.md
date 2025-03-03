@@ -2,9 +2,8 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%"/></p>
 
-<p align="center">I am a Student of Computational Mathematics.<br/>Specialized in Data Science, Analytics, and Computational Algorithms.<br>Building Machine or Deep Learning models to solve problems, and to know the unknown.<br></p><br/>
+<p align="center">I am a Student of Computational Mathematics.<br/> Specialize in Data Science, Analytics, and Computational Algorithms.<br>Building Machine or Deep Learning models to solve problems and to know the unknown.<br></p><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=750&lines=Statistical+Analysis+of+Structured+and+Unstructured+Data;Finding+Trends,+Patterns+with+EDA+and+Machine+Learning+Models;Develop+Deep+Learning+Algorithms+on+Benchmark+Models)](https://git.io/typing-svg)
 <br> [![Profile views](https://komarev.com/ghpvc/?username=MohidulHaqueTushar&label=Profile%20views)](https://github.com/MohidulHaqueTushar)
 
 ### You can connect with me:
